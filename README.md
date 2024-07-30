@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI/ML, AWS, PCB and Circuit Design<br>👯 I’m looking to collaborate on Circuit Design and AI/ML<br>🌱 I’m currently learning Django <br>⚡ Fun fact I am lazy but smart
+🔭 I’m currently working on AI/ML, AWS, PCB and Circuit Design<br>👯 I’m looking to collaborate on Circuit Design and AI/ML<br>🌱 I’m currently learning R <br>⚡ Fun fact I am lazy but smart
 
 
 ## 🌐 Socials:
