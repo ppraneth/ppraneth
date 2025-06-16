@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Java<br>👯 I’m looking to collaborate on Machine Learning and Deep Learning<br>🤝 I’m looking for help with ML<br>🌱 I’m currently learning Java, JavaScript and Testing<br>⚡ Fun fact I am lazy
+🔭 I’m currently working on Gen AI<br>👯 I’m looking to collaborate on Machine Learning, Deep Learning, and LLM projects<br>🤝 I’m looking for help with Generative AI and fine-tuning<br>🌱 I’m currently learning GoLang<br>⚡ Fun fact: I once tried to train a model to choose my lunch. It picked pizza. Every time.
+
 
 
 ## 🌐 Socials:
